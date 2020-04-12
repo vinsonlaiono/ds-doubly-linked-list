@@ -1,0 +1,22 @@
+{
+  "name": "ds-doubly-linked-list",
+  "version": "1.0.0",
+  "description": "doubly linked list data structure implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "doubly",
+    "linked",
+    "list",
+    "npm"
+  ],
+  "author": "vinson aiono",
+  "license": "ISC",
+  "dependencies": {
+    "ds-doubly-linked-list": "/Users/vinsonaiono/Documents/projects/npm-packages/dll-pkg/ds-doubly-linked-list"
+  }
+}
